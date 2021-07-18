@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/eeshaulhaq/CLionProjects/BubbleSort/main.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+vector
+-
+
